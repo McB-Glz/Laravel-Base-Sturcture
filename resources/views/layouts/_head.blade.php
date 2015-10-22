@@ -5,7 +5,7 @@
 
   <title>Shoperti - @yield('title', '')</title>
   <meta name="description" content="@yield('description', '')" />
-  <meta name="author" content="dinkbit" />
+  <meta name="author" content="McB_Glz" />
   <meta name="keywords" content="">
 
   @yield('meta')
